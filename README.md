@@ -1,4 +1,4 @@
-# 🏦 HexagonalMigrationPoC – Validación de Arquitectura para Migración Bancaria
+# 🏦 HexagonalMigrationPoC – Validación de Arquitectura para Migración
 
 Este repositorio contiene el código fuente de la **Prueba de Concepto (PoC)** desarrollada para validar la viabilidad técnica de la estrategia de migración de datos. El objetivo principal fue demostrar la **coexistencia fluida** entre el sistema Legacy actual y la nueva infraestructura en la Nube, minimizando el impacto en el Core del negocio.
 
