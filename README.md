@@ -34,7 +34,7 @@ Aquí se encuentran los "traductores" que resuelven el conflicto de idiomas:
     * Traduce tablas en Español (`razon_social`) al mismo modelo.
 
 ### 4️⃣ 4_DataBase (Scripts de Validación)
-Ubicación: `/scripts`
+Ubicación: `/DataBase`
 Incluye los scripts SQL ejecutados durante la demostración para simular los dos entornos:
 * `Db_OnPrememise.sql`: Crea el entorno On-Premise.
 * `Db_Cloud.sql`: Crea el entorno Cloud.
